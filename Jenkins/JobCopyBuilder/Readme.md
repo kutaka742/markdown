@@ -2,6 +2,7 @@
 
 ## 必要なプラグイン
 下記プラグインとそのプラグインが必要とするプラグインをインストールする。
+
 |名前|URL|Wiki|
 |---|---|---|
 |Jobcopy Builder plugin|https://plugins.jenkins.io/jobcopy-builder|https://wiki.jenkins.io/display/JENKINS/Jobcopy+Builder+plugin|
